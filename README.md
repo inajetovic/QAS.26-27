@@ -8,7 +8,17 @@ Professor: Dr. Anna Pappa
 
 For the practical demos we will mostly use [Pennylane](https://pennylane.ai) and [Qrisp](https://qrisp.eu)
 
-Requirements:
+
+
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/inajetovic/QAS.26-27.git
+```
+
+2. Create and activate a virtual environment
+
+3. Install the requirements:
 
 ```bash
 pip install -r requirements.txt
