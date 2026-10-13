@@ -1,4 +1,4 @@
-<img src="image.png" width="300" height="300">
+<img src="figures/image.png" width="300" height="300">
 
 Repository for the "Quantum Algorithms and Software" course at Technische Universität Berlin (Wintersemester 2026/27)
 
